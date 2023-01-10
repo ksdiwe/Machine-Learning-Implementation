@@ -6,3 +6,5 @@
 - Lasso Regression 
 - Elastic Regression
 also Implementated.
+## Logistic Regression
+## Support Vector Machine
